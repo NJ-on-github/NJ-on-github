@@ -2,17 +2,12 @@
 
 ### A passionate Javascript developer with a graze of design sense and user psychology
 
-- 🌱 I'm currently learning **NextJS, AI & ML**
-
+- 🌱 I'm currently working with **NextJS, AI & ML**
 - 👯 I'm looking to collaborate on **open source projects, hackathons, designathons, ideas that will do good do to people**
-
 - 🤝 I'm looking for help with **learning AI, ML and learning design systems for UI/UX designs**
-
 - 💬 Ask me about **React, JavaScript, C, C++, MERN and PERN**
-
 - 📫 How to reach me **nishit12345.jain@gmail.com**
-
-- ⚡ Fun fact **I think we can make something great! **
+- ⚡ Fun fact **I think we can make something great!**
 
 - 👨‍💻 All of my projects are available at **[https://just-that-designer.vercel.app/](https://just-that-designer.vercel.app/)**
 
